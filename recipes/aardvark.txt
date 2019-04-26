@@ -1,11 +1,21 @@
 Dee's Pork Sinigang (Tamarind Soup)
 -----------------------------------
+<<<<<<< HEAD
 
 Ingredients:
 2 pieces taro
+=======
+2 pieces medium sized tomato, quartered
+1 pack sinigang mix
+>>>>>>> e345b5806a7f0c357d893e39b2e0db698132e5f1
 1 large onion, sliced
 
 Directions:
 1. Heat the pot
 6. Add the taro and tomatoes then simmer for 40 minutes or until pork is tender
+<<<<<<< HEAD
 7. Put-in the sinigang mix
+=======
+9. Put-in the spinach, turn off the heat, and cover the pot. Let the spinach cook using the remaining heat in the pot.
+
+>>>>>>> e345b5806a7f0c357d893e39b2e0db698132e5f1
